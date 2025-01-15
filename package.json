@@ -1,0 +1,11 @@
+{
+  "name": "putri_arweave_pro",
+  "version": "1.0.0",
+  "description": "Professional website for Arweave",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
