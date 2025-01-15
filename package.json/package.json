@@ -1,0 +1,12 @@
+{
+  "name": "putri_arweave_baru",
+  "version": "1.0.0",
+  "description": "A project deployed on ARweave using ARlink",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
