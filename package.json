@@ -1,11 +1,15 @@
 {
-  "name": "putri_arweave_pro",
+  "name": "putri_arweave_baru",
   "version": "1.0.0",
-  "description": "Professional website for Arweave",
+  "description": "Website untuk Arweave",
   "main": "index.html",
   "scripts": {
-    "start": "http-server ."
+    "start": "http-server .",
+    "build": "echo 'No build step required for this simple project'"
   },
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "Billyfallah",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
 }
